@@ -1,0 +1,9 @@
+{
+    "log":{
+        "path" : "/var/log/silex-api-consumer.log",
+        "level": "WARNING"
+    },
+    "api":{
+        "endpoint" : "http://local.silex-rest-api.com/"
+    }
+}
