@@ -3,3 +3,6 @@ Api consumer silex app for [SilexRestApiSkeleton](https://github.com/grandbora/S
 --
 
 TODO  
+
+add UI  
+use zombi.js  
